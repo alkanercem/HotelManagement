@@ -1,7 +1,14 @@
-## Project Structure 
+# Hotel Management
 
-The project is built using Spring Boot and Maven, and it utilizes a PostgreSQL database. Additional dependencies such as ModelMapper and Lombok are included in the project. 
+Hotel Management is a CRUD (Create, Read, Update, Delete) application developed using Spring Boot. This application includes RESTful APIs to manage basic operations related to hotels and rooms. It also uses PostgreSQL database for data storage.
 
+## Key Features
+
+- Create, update, and delete hotels.
+- Create, update, and delete rooms to hotel (ORM).
+- View detailed information for each hotel and room.
+- List all hotels and rooms.
+  
 ## Dependencies Used 
 
 - **Spring Boot Starter Data JPA**  
@@ -25,15 +32,7 @@ The project is built using Spring Boot and Maven, and it utilizes a PostgreSQL d
  
 
 ## ER Diagram 
-
- 
-
-## Requirements 
-
-- **JDK 17** 
-
-- **PostgreSQL** 
-
+ [![](https://www.resimupload.org/images/2023/12/22/Untitled-1.png)](https://www.resimupload.org/images/2023/12/22/Untitled-1.png))
  
 
 ## Installation 
